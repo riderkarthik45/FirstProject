@@ -1,5 +1,5 @@
 a=10
-b=12
+b=22
 print(a+b)
 print('hello word')
 a="Python"
